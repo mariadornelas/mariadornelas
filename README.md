@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## 👩‍💻 About Me:
 
 <p align="center">
@@ -14,7 +12,7 @@
 
 ---
 
-## 🛠️ Techs:
+<!-- ## 🛠️ Techs:
 
 ### 💻 Programming Languages:
 <p align="center">
@@ -26,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,css,html,react,vue,angular" />
 </p>
 
----
+--- -->
 
 <!-- ## 📊 GitHub Stats:
 
@@ -37,8 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
 </p> -->
-
----
 
 ## 🛠 Tech Stack
 <p align="left">
