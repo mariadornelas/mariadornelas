@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Olá!+Eu+sou+Maria+Luiza+Dornelas;Desenvolvedora+Full+Stack;Bem-vindo+ao+meu+GitHub!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Hey!+I'm+Maria+Luiza)
 
 
 Master's student in Computer Science at UFJF
