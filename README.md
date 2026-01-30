@@ -4,23 +4,13 @@
 
 </div>
 
-
-
 ---
 
 ## 👩‍💻 About Me:
 
 <p align="center">
-  Front End & Mobile Developer <br/>
-  Brazilian developer 🇧🇷
+  FullStack Developer
 </p>
-
-- 🛠️ I am working at **Marlin**
-- 🌱 I am learning **Node** and **Django**
-- 📍 I am from **Juiz de Fora, Minas Gerais, Brazil**
-- 📧 Contact me at **isadorafe56@gmail.com**
-- 🌐 Check out my website!
-- ⚡ Fun Fact: I'm learning Japanese! (slowly...)
 
 ---
 
@@ -38,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
@@ -46,9 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
-### My Page [Here](link-do-seu-site)
+</p> -->
 
 ---
 
