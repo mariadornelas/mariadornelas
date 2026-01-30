@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Hey!+I'm+Maria+Luiza+Dornelas!Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Hey!+I'm+Maria+Luiza+Dornelas!+Welcome+to+my+profile!)
 
 </div>
 
@@ -10,7 +10,7 @@
   FullStack Developer
 </p>
 
----
+<!-- --- -->
 
 <!-- ## 🛠️ Techs:
 
