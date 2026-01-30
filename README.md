@@ -1,4 +1,6 @@
-# Hey, I'm [Seu Nome]!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Olá,+meu+nome+é+Maria+Luiza;Estudante+de+Ciência+da+Computação;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+</div>
 
 Master's student in Computer Science at UFJF
 
