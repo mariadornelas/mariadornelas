@@ -1,9 +1,9 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
   
-  <div align="center">
-    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Hey!+I'm+Maria+Luiza+Dornelas!)
-  </div>
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Hey!+I'm+Maria+Luiza+Dornelas!)
+  
 
   <p align="center">
     <a href="https://www.linkedin.com/in/link-do-seu-linkedin">
