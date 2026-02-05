@@ -19,7 +19,7 @@
 
 Sou apaixonada por tecnologia e desenvolvimento web. Atualmente focada em criar soluções eficientes e elegantes utilizando o ecossistema JavaScript.
 
-* 🔭 Atualmente trabalhando em projetos FullStack.
+* 🔭 Atualmente trabalhando como desenvolvedora FullStack.
 * 📚 Cursando Ciência da Computação na UFJF.
 
 ## 🛠 Tech Stack
